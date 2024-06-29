@@ -1,0 +1,2 @@
+# DictionaryAsGo
+Dictionary in Golang
